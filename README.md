@@ -1,2 +1,2 @@
 # CRUD-using-Thymeleaf
-This is full crud operation using thymeleaf.
+This is full crud operation using thymeleaf
